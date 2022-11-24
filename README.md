@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-I am a Full Stack Developer with a huge love for React js, React Native, JavaScript, and TailwindCSS. Currently, I'm searching for a job or internship to improve my skill.
+I am a Full Stack Developer with a huge love for React js, React Native, JavaScript, and TailwindCSS. Currently, Learning App devlopment.
 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [masud.rana12899@gmail.com](mailto:masud.rana12899@gmail.com)
-* 🧠  I'm learning python
+* 🧠  I'm intersted in Java programing
 
 <a href="https://www.github.com/masudRana88" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/masudRana88?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
